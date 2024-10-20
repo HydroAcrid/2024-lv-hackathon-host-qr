@@ -71,7 +71,7 @@ const QRCodePage = () => {
         }
     }, [userLIN]);
 
-    const uploadUrl = `${window.location.origin}/upload`;
+    const uploadUrl = 'https://dulcet-taiyaki-d277cf.netlify.app//upload';
 
     return (
         <div>
